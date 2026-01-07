@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Ultimate Multisite
+ * Plugin Name: Ultimate Multisite PBrx
  * Description: Transform your WordPress Multisite into a Website as a Service (WaaS) platform supporting site cloning, re-selling, and domain mapping integrations with many hosting providers.
  * Plugin URI: https://ultimatemultisite.com
  * Text Domain: ultimate-multisite
